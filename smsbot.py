@@ -23,7 +23,7 @@ class main():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
                 version : 1.0
-            youtube.com/CyberPredator
+            youtube.com/CyberPredatorimtiaz
             """)
 
     def send_sms():
