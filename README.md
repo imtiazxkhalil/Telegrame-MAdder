@@ -7,9 +7,7 @@
   <a href="https://github.com/imtiazxkhalil">
     <img src="https://img.shields.io/github/followers/imtiazxkhalil?label=Follow&style=social">
   </a>
-  <a href="https://github.com/imtiazxkhalil/Telegram-MAddet">
-    <img src="https://img.shields.io/github/stars/imtiazxkhalil/Telegram-MAdder?style=social">
-  </a>
+
 </p>
 <p align="center">
   Telegram Group Scrapper
